@@ -2,7 +2,7 @@ const path = require("path");
 
 module.exports = {
   // 路径前缀
-  // publicPath: "/",
+  publicPath: "/",
   lintOnSave: true,
   productionSourceMap: true,
   configureWebpack: {
