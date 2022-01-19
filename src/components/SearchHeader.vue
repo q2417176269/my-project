@@ -44,7 +44,7 @@ let searchOpt = [
 //   console.log(searchData);
 // };
 const resetEvent = () => {
-  VXETable.modal.message({ content: "重置事件", status: "info" });
+  // VXETable.modal.message({ content: "重置事件", status: "info" });
 };
 </script>
 

@@ -8,7 +8,7 @@ export default createStore({
     },
     CHANGE_COLLAPSE(state, payload) {
       state.isCollapse = payload;
-    },
+    }
   },
   actions: {},
   modules: {}
